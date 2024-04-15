@@ -13,5 +13,3 @@ Do the following to Complete this assignment:
 5. Done!
 
 Some more changes
-
-How many more?
