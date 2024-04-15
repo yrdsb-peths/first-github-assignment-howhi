@@ -1,15 +1,13 @@
-# Welcome to our GitHub classroom!
+public class Rectangle
+{
+	private int width;
+	private int height;
 
-Do the following to Complete this assignment:
+	public Rectangle(int width, int height)
+	{
+		this.width = width;
+		this.height = height;
+	{
+}
 
-1. Begin editing this file by clicking the 'pen' symbol above.
 
-2. Enter your First Name: Connor
-
-3. Enter your favourite animal: Orca
-
-4. Now click the green 'commit changes' button at the bottom.
-
-5. Done!
-
-Some more changes
