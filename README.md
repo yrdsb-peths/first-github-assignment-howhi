@@ -4,9 +4,9 @@ Do the following to Complete this assignment:
 
 1. Begin editing this file by clicking the 'pen' symbol above.
 
-2. Enter your First Name:
+2. Enter your First Name: Connor
 
-3. Enter your favourite animal:
+3. Enter your favourite animal: Orca
 
 4. Now click the green 'commit changes' button at the bottom.
 
