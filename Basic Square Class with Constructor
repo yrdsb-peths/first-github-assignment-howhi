@@ -1,8 +1,0 @@
-public class Square extends Rectangle
-{
-  private int sideLength;
-  public Square(int sideLength)
-  {
-    super(sideLength, sideLength);
-  }
-}
