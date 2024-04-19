@@ -1,7 +1,5 @@
 public class Fraction
-{
-    // Create your instance variables and constructor here
-    
+{    
     private int numerator;
     private int denominator;
     
