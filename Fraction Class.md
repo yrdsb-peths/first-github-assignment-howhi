@@ -40,18 +40,6 @@ public class Fraction
     {
         numerator = (numerator * other.getDenominator()) - (other.getNumerator() * denominator);
         denominator = denominator * other.getDenominator();
-    }
-    
-    public void multiply(Fraction other) 
-    {
-        numerator = numerator * other.getNumerator();
-        denominator = denominator * other.getDenominator();
-    }
-    
-    public String toString() 
-    {
-        return numerator + " / " + denominator;
-    }
-    
+    }   
     
 }
