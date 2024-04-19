@@ -48,10 +48,5 @@ public class Fraction
         denominator = denominator * other.getDenominator();
     }
     
-    public String toString() 
-    {
-        return numerator + " / " + denominator;
-    }
-    
     
 }
