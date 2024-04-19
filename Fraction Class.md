@@ -11,34 +11,41 @@ public class Fraction
         denominator = denom;
     }
     
-    public int getNumerator() {
+    public int getNumerator() 
+    {
         return numerator;
     }
     
-    public int getDenominator() {
+    public int getDenominator() 
+    {
         return denominator;
     }
     
-    public void setNumerator(int x) {
+    public void setNumerator(int x) 
+    {
         numerator = x;
     }
     
     
-    public void setDenominator(int x) {
+    public void setDenominator(int x) 
+    {
         denominator = x;
     }
     
-    public void add(Fraction other) {
+    public void add(Fraction other) 
+    {
         numerator = (numerator * other.getDenominator()) + (other.getNumerator() * denominator);
         denominator = denominator * other.getDenominator();
     }
     
-    public void subtract(Fraction other) {
+    public void subtract(Fraction other) 
+    {
         numerator = (numerator * other.getDenominator()) - (other.getNumerator() * denominator);
         denominator = denominator * other.getDenominator();
     }
     
-    public void multiply(Fraction other) {
+    public void multiply(Fraction other) 
+    {
         numerator = numerator * other.getNumerator();
         denominator = denominator * other.getDenominator();
     }
